@@ -1,2 +1,2 @@
 ### Hi there 👋
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
