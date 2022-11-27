@@ -1,2 +1,2 @@
 ### Hi there 👋
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=highcontrast)](https://git.io/streak-stats)
+[![GitHub Streak](https://vk.com/idmkneeds)](https://git.io/streak-stats)
