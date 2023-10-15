@@ -24,6 +24,3 @@ I'm a dedicated Robotics master's student passionate about solving complex probl
 </a>
 </div>
 
-
-
-</div>
