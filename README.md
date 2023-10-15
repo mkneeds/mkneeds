@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Viktor
 
-[![Github](https://img.shields.io/github/followers/mkneeds?label=Follow&style=social)](https://github.com/mkneeds)
+[![Github](https://img.shields.io/github/followers/mkneeds?label=Follow&style=social)](https://t.me/mkkiramk)
 
 I'm a dedicated Robotics master's student passionate about solving complex problems and creating innovative software solutions 🤖. I have a strong affinity for Open Source and thoroughly enjoy contributing to engaging open source projects. In addition to my academic pursuits, I'm a proficient AI developer and skilled 1C developer, allowing me to explore the realms of Artificial Intelligence and 1C development.
 
